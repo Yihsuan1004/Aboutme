@@ -39,7 +39,7 @@ nav ul{
     cursor: pointer;
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    padding: 2% 5%;
+    padding: 10px 5%;
     color: rgba(255,255,255,0.5);
 }
 .nav-item:hover{
