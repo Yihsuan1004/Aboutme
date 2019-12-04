@@ -88,7 +88,7 @@ nav ul{
 /*------------Introduce------------*/
 .main{
     margin-top: 60px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.596),rgba(0, 0, 0, 0.582)),url(./img/me.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.596),rgba(0, 0, 0, 0.582)),url(img/me.jpg);
     background-position: center top;
     background-size: cover;
     height: 800px;
@@ -569,7 +569,7 @@ textarea{
     height: 180px;
     position: relative;
     left: 24px;
-    background: url(./img/B10236028-2.jpg) white center center no-repeat;
+    background: url(img/B10236028-2.jpg) white center center no-repeat;
     background-size: 80% auto;
     border-radius: 50%;
 }
